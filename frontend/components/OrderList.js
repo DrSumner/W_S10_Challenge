@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { useGetOrdersQuery } from '../state/OrdersApi'
+import { useGetOrdersQuery } from '../state/store'
 
 
 
